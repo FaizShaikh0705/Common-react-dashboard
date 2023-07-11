@@ -8,16 +8,17 @@
 }
 
 .modalbody{
-height: 400px;
-text-align: center;
+height: 340px;
+text-align: left;
 position: fixed; 
 background-color:#fff;
 z-index: 500;
-left: 15%;
-top: 10%; 
+left: 38%;
+top: 21%; 
 box-sizing: border-box;
-width: 70%;
-overflow-Y: scroll;
+width: 35%;
+overflow-Y: hidden;
+border-radius: 10px 10px 10px 10px;
 }
 
 @media only screen and (max-width:500px){

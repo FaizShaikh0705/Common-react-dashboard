@@ -8,7 +8,7 @@ const Header = () => {
       <div className="col-lg-10">
         <div className="border p-4 shadow">
           <div className="d-flex justify-content-between mb-3">
-            <h1 className="mb-4">Welcome to sakari kidz Dashboard</h1>
+            <h1 className="mb-4">Welcome to React Dashboard</h1>
           </div>
         </div>
       </div>

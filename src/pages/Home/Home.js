@@ -23,7 +23,7 @@ const Home = () => {
             fontWeight="bold"
             sx={{ m: "5px 25px" }}
           >
-             Safari Kidz         
+            React Dashboard         
             </Typography>
             <Container maxWidth="xl" sx={{ mt: 2, mb: 2 }}>
               <Header/>
